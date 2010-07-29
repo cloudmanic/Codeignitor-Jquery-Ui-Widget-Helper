@@ -1,4 +1,10 @@
 Cloudmanic Labs, LLC
+Spicer Matthews
+spicer@cloudmanic.com
 http://www.cloudmanic.com
 
 A helper for Codeignitor to help style html elements with the Jquery UI CSS framework
+
+Here is an example of how to add to this to your project as a submodule
+
+git submodule add git@github.com:cloudmanic/Codeignitor-Jquery-Ui-Widget-Helper.git private/application/helpers/jquery-ui-helpers
